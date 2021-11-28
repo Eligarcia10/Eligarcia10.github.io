@@ -1,11 +1,10 @@
 ---
 layout: post
-title: Sample blog post
+
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
 comments: true
 ---
-**Here is some bold text**
 
 ## Here is a secondary heading
 
