@@ -1,7 +1,4 @@
 
-**Here is some bold text**
-
-## Here is a secondary heading
 
 Here's a useless table:
 
