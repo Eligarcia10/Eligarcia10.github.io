@@ -7,50 +7,7 @@ thumbnail-img: /assets/img/thumb.png
 share-img: /assets/img/path.jpg
 tags: [books, test]
 ---
-
-
-
-
-
-Elizabeth Cristina García Satán
-DATOS GENERALES
-Edad:	22 años
-Género:	Femenino
-Cédula:	060553975-8
-Fecha de Nacimiento:10/08/1998
-Email Institucional:elizabeth.garcia@unach.edu.ec
-Celular:0983808846
-Email Personal:	eligarcia1998c@gmail.com
-Convencional:	032602966
-Ciudad:	Riobamba
-Dirección:	San Antonio del aeropuerto, calle Quero, casa número 3
-
-
-FORMACIÓN ACADÉMICA
-Educación Primaria: Escuela Fiscal José María Román - Riobamba
-Educación Secundaria: I.T.S "Isabel de Godín" - Ciencias Básicas - Riobamba
-Educación Superior: Universidad Nacional de Chimborazo - Pedagogía de las Ciencias Experimentales: Informática 
-
-CURSOS REALIZADOS:
-Diseño gráfico Adobe Illustrator
-Adobe Photoshop básico
-
-
-PERFIL:
-• Soy puntual también me adapto al trabajo en equipo, responsabilidad, facilidad de aprendizaje, entre otros
-• Áreas de dominio el desempeño y manipulación de aplicaciones ofimáticas locales y en línea entre otros, en proceso de formación académica.
-
-IDIOMAS QUE DOMINO
-Español
-Inglés
-
-INTERESES
-Viajar : Italia, Francia , Corea del Sur
-Deportes : Natación , Ciclismo
-Educación: Maestría en Diseño y Gestión de Proyectos Tecnológicos
-
-INFORMACIÓN DEL CONTACTO
-
-Universidad Nacional de Chimborazo
-San Antonio del aeropuerto-Riobamba-Ecuador
-eligarcia1998c@gmail.com / crissg2000c@gmail.com
+Mi nombre es Elizabeth Cristina García Satán. Nací el 10 de agosto de 1998. Vivo en Riobamba desde los cinco años de edad, con mis padres y mis hermanos. Estudié la primaria en la escuela “José María Román”, la segundaria la hice en la unidad educativa “Isabel de Godin”.
+Actualmente estudio Pedagogía de la informática en la Universidad Nacional de Chimborazo. Estoy en la universidad persiguiendo una meta que es la de ser una licenciada eficiente. Y aunque me ha costado llegar a donde estoy sé que el esfuerzo que hago pronto me generara grandes frutos.
+Espero llegar a ser una persona con opiniones y estilo muy personal, quiero un estudio intelectual, razonable y los elementos necesarios para poder llegar a ese fin, gracias a los valores que me proporcionan mi familia y mis amistades que son parte importante en mi vida y mis metas, ya que con su apoyo, alegría, comprensión y amor hacen que cada día me motiven a seguir adelante.
+Muchas de las cosas que he aprendido en este corto trayecto de la vida es que hay verdades y formas de hacer las cosas, de interpretarlas y de crearlas que por más que todos tengamos un problema todo tiene solución, creer y luchar por lo que queremos es la manera de Salir adelante. Todo en esta vida tiene solución.
