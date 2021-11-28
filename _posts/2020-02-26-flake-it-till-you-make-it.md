@@ -2,6 +2,7 @@
 layout: post
 title: Mi Información
 subtitle: DATOS GENERALES
+cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/thumb.png
 
 
