@@ -9,6 +9,21 @@ thumbnail-img: /assets/img/thumb.png
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 DATOS GENERALES:
 Edad:	22 años ;Género:	Femenino ; Cédula:	060553975-8 ;Fecha de Nacimiento:	10/08/1998
 Email Personal:	eligarcia1998c@gmail.com;Email Institucional:elizabeth.garcia@unach.edu.ec; Celular:0983808846;
