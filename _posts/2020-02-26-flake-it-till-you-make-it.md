@@ -7,6 +7,9 @@ thumbnail-img: /assets/img/thumb.png
 share-img: /assets/img/path.jpg
 tags: [books, test]
 ---
+
+
+DATOS GENERALES
 Mi nombre es Elizabeth Cristina García Satán. Nací el 10 de agosto de 1998. Vivo en Riobamba desde los cinco años de edad, con mis padres y mis hermanos. Estudié la primaria en la escuela “José María Román”, la segundaria la hice en la unidad educativa “Isabel de Godin”.
 Actualmente estudio Pedagogía de la informática en la Universidad Nacional de Chimborazo. Estoy en la universidad persiguiendo una meta que es la de ser una licenciada eficiente. Y aunque me ha costado llegar a donde estoy sé que el esfuerzo que hago pronto me generara grandes frutos.
 Espero llegar a ser una persona con opiniones y estilo muy personal, quiero un estudio intelectual, razonable y los elementos necesarios para poder llegar a ese fin, gracias a los valores que me proporcionan mi familia y mis amistades que son parte importante en mi vida y mis metas, ya que con su apoyo, alegría, comprensión y amor hacen que cada día me motiven a seguir adelante.
