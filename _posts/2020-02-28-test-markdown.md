@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Sample blog post
+title: Información personal
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
 comments: true
 ---
-**Here is some bold text**
+**Aquí hay un texto en negrita**
 
 ## Here is a secondary heading
 
