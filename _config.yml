@@ -9,14 +9,16 @@
 title: Elizabeth García
 
 # Your name to show in the footer
-author: Elizabeth García
+author: 
 
 # --- List of links in the navigation bar --- #
+
 
 navbar-links:
   
   Deber:
-    - Deber1: "https://view.genial.ly/61a2546c0f9eaf0d7833f118/presentation-resumen"
+    - Deber N1: "https://view.genial.ly/61a2546c0f9eaf0d7833f118/presentation-resumen"
+    - Información personal: "https://view.genial.ly/5efd12a1ed6b750d6b5e7895/horizontal-infographic-diagrams-autografo-social"
   Autora: "https://es-la.facebook.com/"
 
 # --- Logo --- #
