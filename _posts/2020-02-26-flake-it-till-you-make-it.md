@@ -8,6 +8,9 @@ thumbnail-img: /assets/img/thumb.png
 
 ---
 
+El fracaso es la manera de empezar de nuevo, pero más inteligente
+Los fracasos son una oportunidad inmejorable para aprender, pues si te lo tomas como una experiencia de aprendizaje, posiblemente no volverás a cometer los mismos errores que en el pasado.
+
 
 
 DATOS GENERALES:
