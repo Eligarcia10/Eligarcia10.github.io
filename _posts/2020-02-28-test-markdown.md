@@ -9,12 +9,12 @@ comments: true
 
 ## HOBBIES
 
-
-![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
+Natación
+![Crepe](https://drive.google.com/file/d/1jMVpYZya5cgapPaTt_aBVLSujsj93wsr/view?usp=sharing){: .mx-auto.d-block :}
 
 Ciclismo
 
-![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg){: .mx-auto.d-block :}
+![Crepe](https://drive.google.com/file/d/1Nmk379S_oK0IJFLD12I6_kVL7D-Gaz1Z/view?usp=sharing){: .mx-auto.d-block :}
 
 Ejercitar en el Gym
-![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg){: .mx-auto.d-block :}
+![Crepe](https://drive.google.com/file/d/1AfJY4F3J4IhHyhorgpYMjLKyZOTroe_F/view?usp=sharing){: .mx-auto.d-block :}
