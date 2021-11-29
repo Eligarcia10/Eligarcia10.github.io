@@ -40,13 +40,11 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "someone@example.com"
+  email: "eligarcia1998c@gmail.com"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
-  patreon: DeanAttali
-  youtube: c/daattali
+  facebook: https://www.facebook.com/profile.php?id=100008266893656
+  instagram: https://www.instagram.com/invites/contact/?i=vehzxlc4dsqf&utm_content=63oicbg
+  youtube: https://www.youtube.com/channel/UCEtIICzK9yCOfV6nHLkbz_Q
 #  medium: yourname
 #  reddit: yourname
 #  linkedin: daattali
